@@ -11,7 +11,7 @@
     <div class="container mx-auto px-4 sm:px-8">
         <div class="py-8">
             <div>
-                <h2 class="text-2xl font-semibold leading-tight">Users</h2>
+                <h2 class="text-2xl font-semibold leading-tight">Rak Buku</h2>
             </div>
             <!-- tombol -->
             <div class="-mx-4 sm:-mx-8 px-4 sm:px-8 py-4 overflow-x-auto">
